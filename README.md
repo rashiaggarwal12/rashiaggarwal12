@@ -53,6 +53,9 @@ class RashiAggarwal:
 
 ### AI / ML
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -86,13 +89,11 @@ class RashiAggarwal:
 
 ---
 
-## 💡 Featured Projects
+## 🧩 LeetCode
 
-| 🚀 Project | 📝 Description | 🧰 Tech Stack |
-|:----------|:--------------|:--------------|
-| **🤖 AI-Powered ATS Resume Scorer & Job Match Analyzer** | Full-stack resume scorer grading across 5 weighted ATS categories with an NLP + embeddings semantic job-match engine, JWT auth, and one-click PDF report export. | `Python` · `FastAPI` · `Streamlit` · `spaCy` · `Sentence Transformers` · `Llama 3` · `Supabase` |
-| **🌍 Voyage Event Manager** | B2B event-management core with lifecycle/CRUD & budget rollups — load-tested to **21K req/s** using a Redis caching layer and an async email pipeline on distributed workers. | `Go` · `Fiber` · `PostgreSQL` · `Redis` · `Asynq` · `Next.js` · `Docker` |
-| **🏋️ AI Real-Time Gym Coach** | Live webcam AI trainer auto-counting reps/sets and correcting form across 5 exercises, plus a real-time voice coach delivering spoken feedback. | `Streamlit` · `MediaPipe` · `OpenCV` · `LLM API` · `gTTS` · `SQLite` |
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/rashi_agg05?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats"/>
+</div>
 
 ---
 
@@ -124,6 +125,9 @@ class RashiAggarwal:
   </a>
   <a href="https://github.com/rashiaggarwal12" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/rashi_agg05/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </div>
 
