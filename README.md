@@ -24,19 +24,32 @@ class RashiAggarwal:
     def __init__(self):
         self.role        = "AI/ML + Full-Stack Engineer"
         self.education   = "B.Tech CSE (AI/ML), Sharda University (2023 – Present)"
-        self.focus       = ["Generative AI", "LLMs", "NLP", "Computer Vision", "Scalable Backends"]
-        self.currently   = "Building GenAI apps & high-throughput systems"
-        self.fun_fact    = "I load-tested a Go backend to 21K req/s ⚡"
+        self.focus       = ["DSA", "System Design", "AI-Powered Projects", "Backend Systems"]
+        self.fun_fact    = "I built an AI that watches me work out — so my code and I both stay in shape 🏋️"
 
     def say_hi(self):
         print("Thanks for stopping by — let's build something great!")
 ```
 
-- 🔭 &nbsp;I'm currently building **Generative AI applications** with LLMs and **scalable, data-driven backends**
-- 🌱 &nbsp;Deep-diving into **semantic search, embeddings, and high-performance system design**
+- 🔭 &nbsp;I'm currently building **AI applications** with LLMs and **scalable, data-driven backends**
 - 👯 &nbsp;Open to collaborate on **AI/ML, GenAI, and full-stack projects**
-- 💬 &nbsp;Ask me about **LLMs, NLP, FastAPI, Go, or React**
 - 📫 &nbsp;Reach me at **aggarwalrashi2005@gmail.com**
+
+---
+
+<div align="center">
+  <h3>💫 My Mantra</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <i>"I don't wait for the model to converge — I keep training until the dream does.<br/>
+        Every bug is a lesson, every commit a step, and every late night an investment in the version of me still compiling."</i>
+        <br/><br/>
+        <b>— Rashi Aggarwal 🚀</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -57,7 +70,6 @@ class RashiAggarwal:
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -76,7 +88,7 @@ class RashiAggarwal:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Tools & Platforms
@@ -93,23 +105,6 @@ class RashiAggarwal:
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/rashi_agg05?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rashiaggarwal12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=8E2DE2&icon_color=8E2DE2"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashiaggarwal12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=8E2DE2"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashiaggarwal12&theme=tokyonight&hide_border=true&ring=8E2DE2&fire=8E2DE2&currStreakLabel=8E2DE2" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rashiaggarwal12&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies"/>
 </div>
 
 ---
