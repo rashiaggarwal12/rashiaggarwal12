@@ -12,7 +12,7 @@
 
 <!-- ======================= PROFILE VIEWS ======================= -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rashiaggarwal12&label=Profile%20Views&color=8E2DE2&style=flat" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rashiaggarwal12.rashiaggarwal12&left_text=Profile%20Views&right_color=%238E2DE2" alt="profile views" />
 </div>
 
 ---
@@ -60,6 +60,7 @@ class RashiAggarwal:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -112,7 +113,7 @@ class RashiAggarwal:
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/" target="_blank">
+  <a href="https://www.linkedin.com/in/rashi-a-837809312/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:aggarwalrashi2005@gmail.com">
